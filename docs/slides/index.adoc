@@ -8,7 +8,7 @@ ifndef::backend[:backend: html5]
 :icons: font
 
 [background-opacity="0.3"]
-=== Was ist das Problem?
+=== Was ist das Problemo Senior?
 
 image::main_background.jpg[background, size=cover]
 * Videos können nicht spontan geplant werden.
