@@ -287,10 +287,10 @@ SECTION .title {
 }
 
 /* Keine Einengung der width*/
-/* .reveal blockquote {
+.reveal blockquote {
   width: 80%;
   text-align: left;
-} */
+}
 
 
 /* --------------------------------------------------------- */
